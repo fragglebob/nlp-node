@@ -1,0 +1,14 @@
+{
+  "name": "nlp-node",
+  "description": "a set of natural language processing tools for nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spencermountain/nlp-node.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+}
